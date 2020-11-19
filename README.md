@@ -1,11 +1,9 @@
-# celeste
+# Personal webpage by M.Agator based on Celeste
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://github.com/mdo).
-
-![Celeste Preview](https://user-images.githubusercontent.com/4868132/48317284-981f4080-e62a-11e8-94e4-f3d7db9506a7.png)
-
-You can check out Celeste in action in [the demo site](https://nicoelayda.github.io/celeste).
+Celeste is a lightweight Jekyll theme developped by [@nicoelayda](https://github.com/nicoelayda=) and based on [Poole](https://github.com/poole/poole),by [@mdo](https://github.com/mdo).
 
 ## License
+The website theme is under MIT Licence. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).
 
-MIT. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).
+The website content (text, images, other media) is under Creative Commons CC-BY-NC 2.0. See [LICENCE](https://creativecommons.org/licenses/by-nc/2.0/fr/legalcode
+Please feel free to contact me for inquiries regarding content use.
