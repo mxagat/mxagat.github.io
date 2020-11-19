@@ -1,6 +1,6 @@
 # Personal webpage for M.Agator
 
-The page uses Celeste, a lightweight Jekyll theme developped by [nicoelayda](https://github.com/nicoelayda) and based on [Poole](https://github.com/poole/poole),by [mdo](https://github.com/mdo).
+The page uses Celeste, a lightweight Jekyll theme developped by [nicoelayda](https://github.com/nicoelayda) and based on [Poole](https://github.com/poole/poole), by [mdo](https://github.com/mdo).
 
 ## License
 The website theme is under MIT Licence. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).
