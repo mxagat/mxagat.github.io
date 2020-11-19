@@ -5,6 +5,6 @@ The page uses Celeste, a lightweight Jekyll theme developped by [nicoelayda](htt
 ## License
 The website theme is under MIT Licence. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).
 
-The website content (text, images, other media) is under Creative Commons CC-BY-NC 2.0. See [LICENCE](https://creativecommons.org/licenses/by-nc/2.0/fr/legalcode
+The website content (text, images, other media) is under Creative Commons CC-BY-NC 2.0. See [LICENCE](https://creativecommons.org/licenses/by-nc/2.0/fr/legalcode)
 
 Please feel free to contact me for inquiries regarding content use.
