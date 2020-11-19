@@ -1,4 +1,4 @@
-# Personal webpage by M.Agator based on Celeste
+# Personal webpage for M.Agator,  based on Jekyll and Celeste theme
 
 Celeste is a lightweight Jekyll theme developped by [nicoelayda](https://github.com/nicoelayda) and based on [Poole](https://github.com/poole/poole),by [mdo](https://github.com/mdo).
 
