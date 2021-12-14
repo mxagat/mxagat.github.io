@@ -1,0 +1,9 @@
+name: "."
+title: "Maxime Agator"
+description: |
+  Maxime Agator
+output_dir: "docs"
+
+# theme: postcards.css
+
+output: distill::distill_article
