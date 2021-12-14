@@ -17,7 +17,6 @@ output:
     postcards::trestles
     
 ---
-
 Curieux de données et d'études pour mieux comprendre les comportements sociaux et agir en conséquence, avec un intérêt particulier pour les politiques publiques. 
 
 Après quelques années consacrées à la recherche sur la lutte anti-corruption, je m'intéresse à d'autres thèmes à travers notamment les statistiques et la data science. Ouvert à de nouvelles aventures professionnelles.
@@ -27,3 +26,4 @@ Diplômé de Sciences Po Lille en relations internationales et de l’École des
 Je réalise aussi des projets personnels d'analyse de données sur mon blog, [Données de curiosité](https://mxagat.github.io/donnees-de-curiosite/), sur des sujets aussi divers que les transports, l'urbanisme, la justice ou la consommation.
 
 Amateur du logiciel R, je m'essaye aussi désormais à Python. 
+
